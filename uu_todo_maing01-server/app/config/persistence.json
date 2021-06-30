@@ -6,6 +6,9 @@
       "schemaMap": {
         "todoMain": {
           "realization": "dao/TodoMainMongo"
+        },
+        "owner": {
+          "realization": "dao/OwnerMongo"
         }
       }
     }

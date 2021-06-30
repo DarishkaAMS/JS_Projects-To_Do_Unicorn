@@ -24,6 +24,14 @@
       "secondTryout": {
         "sysStateList": ["active"],
         "profileList": ["Public"]
+      },
+      "owner/create": {
+        "sysStateList": ["active"],
+        "profileList": ["Public"]
+      },
+      "owner/list": {
+        "sysStateList": ["active"],
+        "profileList": []
       }
     }
   }

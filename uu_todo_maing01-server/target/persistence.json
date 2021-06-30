@@ -8,6 +8,9 @@
         "todoMain": {
           "realization": "dao/TodoMainMongo"
         },
+        "owner": {
+          "realization": "dao/OwnerMongo"
+        },
         "sysAuditLogRecord": {
           "realization": "uu_appg01_auditlog:dao/SysAuditLogRecordMongo"
         },

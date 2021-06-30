@@ -25,6 +25,16 @@
         "realization": "api/controllers/TryoutMainController.secondTryout",
         "httpMethod": "GET",
         "type": "CMD"
+      },
+      "owner/create": {
+        "realization": "api/controllers/OwnerController.create",
+        "httpMethod": "POST",
+        "type": "CMD"
+      },
+      "owner/list": {
+        "realization": "api/controllers/OwnerController.list",
+        "httpMethod": "GET",
+        "type": "CMD"
       }
     }
   }

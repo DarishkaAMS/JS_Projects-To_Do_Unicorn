@@ -395,6 +395,18 @@
       "defaultUve": {
         "profileList": ["Public"],
         "sysStateList": ["active"]
+      },
+      "sayHello": {
+        "sysStateList": ["active"],
+        "profileList": ["Public"]
+      },
+      "secondTryout": {
+        "sysStateList": ["active"],
+        "profileList": ["Public"]
+      },
+      "owner/create": {
+        "sysStateList": ["active"],
+        "profileList": ["Public"]
       }
     }
   }
