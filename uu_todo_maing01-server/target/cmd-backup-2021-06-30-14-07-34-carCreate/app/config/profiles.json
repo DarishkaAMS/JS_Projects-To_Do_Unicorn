@@ -36,22 +36,6 @@
       "owner/delete": {
         "sysStateList": ["active"],
         "profileList": ["Public"]
-      },
-      "car/create": {
-        "sysStateList": ["active"],
-        "profileList": ["Public"]
-      },
-      "car/list": {
-        "sysStateList": ["active"],
-        "profileList": ["Public"]
-      },
-      "car/delete": {
-        "sysStateList": ["active"],
-        "profileList": ["Public"]
-      },
-      "car/update": {
-        "sysStateList": ["active"],
-        "profileList": ["Public"]
       }
     }
   }

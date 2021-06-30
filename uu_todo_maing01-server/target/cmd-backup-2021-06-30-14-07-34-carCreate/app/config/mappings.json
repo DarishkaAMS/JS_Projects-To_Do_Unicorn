@@ -40,26 +40,6 @@
         "realization": "api/controllers/OwnerController.delete",
         "httpMethod": "POST",
         "type": "CMD"
-      },
-      "car/create": {
-        "realization": "api/controllers/CarController.create",
-        "httpMethod": "POST",
-        "type": "CMD"
-      },
-      "car/list": {
-        "realization": "api/controllers/CarController.list",
-        "httpMethod": "GET",
-        "type": "CMD"
-      },
-      "car/delete": {
-        "realization": "api/controllers/CarController.delete",
-        "httpMethod": "POST",
-        "type": "CMD"
-      },
-      "car/update": {
-        "realization": "api/controllers/CarController.update",
-        "httpMethod": "POST",
-        "type": "CMD"
       }
     }
   }

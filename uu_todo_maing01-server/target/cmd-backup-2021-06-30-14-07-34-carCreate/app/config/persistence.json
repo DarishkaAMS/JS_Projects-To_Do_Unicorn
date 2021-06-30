@@ -9,9 +9,6 @@
         },
         "owner": {
           "realization": "dao/OwnerMongo"
-        },
-        "car": {
-          "realization": "dao/CarMongo"
         }
       }
     }
