@@ -35,11 +35,6 @@
         "realization": "api/controllers/OwnerController.list",
         "httpMethod": "GET",
         "type": "CMD"
-      },
-      "owner/delete": {
-        "realization": "api/controllers/OwnerController.delete",
-        "httpMethod": "POST",
-        "type": "CMD"
       }
     }
   }

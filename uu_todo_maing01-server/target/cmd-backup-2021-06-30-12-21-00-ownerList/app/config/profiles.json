@@ -28,14 +28,6 @@
       "owner/create": {
         "sysStateList": ["active"],
         "profileList": ["Public"]
-      },
-      "owner/list": {
-        "sysStateList": ["active"],
-        "profileList": ["Public"]
-      },
-      "owner/delete": {
-        "sysStateList": ["active"],
-        "profileList": ["Public"]
       }
     }
   }

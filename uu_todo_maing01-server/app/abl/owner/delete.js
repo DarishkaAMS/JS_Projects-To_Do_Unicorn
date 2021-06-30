@@ -19,8 +19,8 @@
 //     this.dao = DaoFactory.getDao("owner");
 //   }
 //
-//   async list(awid, dtoIn, uuAppErrorMap = {}) {
-//     let validationResult = this.validator.validate("listDtoInType", dtoIn);
+//   async delete(awid, dtoIn, uuAppErrorMap ={}) {
+//     let validationResult = this.validator.validate("deleteDtoInType", dtoIn);
 //     uuAppErrorMap = ValidationHelper.processValidationResult(
 //       dtoIn,
 //       validationResult,
@@ -28,10 +28,11 @@
 //       Errors.Create.InvalidDtoIn
 //     );
 //
-//     let dtoOut = await this.dao.list(awid, dtoIn);
-//
-//
-//     return { ...dtoOut, uuAppErrorMap };
+//     try {
+//       await this.dao.delete(dtoIn);
+//     } catch (e) {
+//       throw Errors.Create.OwnerCreateDaoFailed(uuAppErrorMap, {dtoIn, cause: e})
+//     }
 //   }
 // }
 //
