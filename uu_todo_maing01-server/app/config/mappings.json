@@ -20,6 +20,11 @@
         "realization": "api/controllers/JokesMainController.sayHello",
         "httpMethod": "GET",
         "type": "CMD"
+      },
+      "secondTryout": {
+        "realization": "api/controllers/TryoutMainController.secondTryout",
+        "httpMethod": "GET",
+        "type": "CMD"
       }
     }
   }

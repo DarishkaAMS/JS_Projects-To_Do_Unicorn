@@ -20,6 +20,10 @@
       "sayHello": {
         "sysStateList": ["active"],
         "profileList": ["Public"]
+      },
+      "secondTryout": {
+        "sysStateList": ["active"],
+        "profileList": ["Public"]
       }
     }
   }
