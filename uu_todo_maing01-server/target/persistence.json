@@ -11,6 +11,9 @@
         "owner": {
           "realization": "dao/OwnerMongo"
         },
+        "car": {
+          "realization": "dao/CarMongo"
+        },
         "sysAuditLogRecord": {
           "realization": "uu_appg01_auditlog:dao/SysAuditLogRecordMongo"
         },
