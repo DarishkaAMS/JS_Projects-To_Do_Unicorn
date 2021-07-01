@@ -52,6 +52,14 @@
       "car/update": {
         "sysStateList": ["active"],
         "profileList": ["Public"]
+      },
+      "fluffy/test": {
+        "sysStateList": ["active"],
+        "profileList": ["Public"]
+      },
+      "bluffy/test": {
+        "sysStateList": ["active"],
+        "profileList": ["Public"]
       }
     }
   }

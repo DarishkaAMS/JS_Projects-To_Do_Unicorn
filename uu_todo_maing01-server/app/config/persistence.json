@@ -12,6 +12,12 @@
         },
         "car": {
           "realization": "dao/CarMongo"
+        },
+        "fluffy": {
+          "realization": "dao/FluffyMongo"
+        },
+        "bluffy": {
+          "realization": "dao/BluffyMongo"
         }
       }
     }

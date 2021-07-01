@@ -60,6 +60,16 @@
         "realization": "api/controllers/CarController.update",
         "httpMethod": "POST",
         "type": "CMD"
+      },
+      "fluffy/test": {
+        "realization": "api/controllers/FluffyController.test",
+        "httpMethod": "GET",
+        "type": "CMD"
+      },
+      "bluffy/test": {
+        "realization": "api/controllers/BluffyController.test",
+        "httpMethod": "POST",
+        "type": "CMD"
       }
     }
   }

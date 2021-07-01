@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33462b8b-a1d5-4f9b-82fa-2759aa5577f5" name="Default Changelist" comment="Check Commit">
-      <change beforePath="$PROJECT_DIR$/uu_todo_maing01-server/app/abl/car-abl.js" beforeDir="false" afterPath="$PROJECT_DIR$/uu_todo_maing01-server/app/abl/car-abl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uu_todo_maing01-server/app/api/errors/car-error.js" beforeDir="false" afterPath="$PROJECT_DIR$/uu_todo_maing01-server/app/api/errors/car-error.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uu_todo_maing01-server/app/api/validation_types/car-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/uu_todo_maing01-server/app/api/validation_types/car-types.js" afterDir="false" />
+    <list default="true" id="33462b8b-a1d5-4f9b-82fa-2759aa5577f5" name="Default Changelist" comment="Fixing Errors">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uu_todo_maing01-server/app/config/mappings.json" beforeDir="false" afterPath="$PROJECT_DIR$/uu_todo_maing01-server/app/config/mappings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uu_todo_maing01-server/app/config/persistence.json" beforeDir="false" afterPath="$PROJECT_DIR$/uu_todo_maing01-server/app/config/persistence.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uu_todo_maing01-server/app/config/profiles.json" beforeDir="false" afterPath="$PROJECT_DIR$/uu_todo_maing01-server/app/config/profiles.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
       <workItem from="1625050173651" duration="16045000" />
       <workItem from="1625066807820" duration="31000" />
       <workItem from="1625067119787" duration="25000" />
-      <workItem from="1625067173487" duration="4671000" />
+      <workItem from="1625067173487" duration="8367000" />
     </task>
     <task id="LOCAL-00001" summary="Add Tryout App">
       <created>1625050994718</created>
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625118915251</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fixing Errors">
+      <created>1625137346017</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1625137346017</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +140,7 @@
     <MESSAGE value="Add create, delete and update" />
     <MESSAGE value="Fix update" />
     <MESSAGE value="Check Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Check Commit" />
+    <MESSAGE value="Fixing Errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing Errors" />
   </component>
 </project>
