@@ -10,7 +10,7 @@ const Create = {
     constructor() {
       super(...arguments);
       this.code = `${Create.UC_CODE}invalidDtoIn`;
-      this.message = "DtoIn is not valid.";
+      this.message = "DtoIn in CREATE is not valid.";
     }
   },
 
@@ -25,7 +25,13 @@ const Create = {
 
 const List = {
   UC_CODE: `${CAR_ERROR_PREFIX}list/`,
-
+  InvalidDtoIn: class extends TestMainUseCaseError {
+    constructor() {
+      super(...arguments);
+      this.code = `${Delete.UC_CODE}invalidDtoIn`;
+      this.message = "DtoIn in LIST is not valid.";
+    }
+  },
 };
 
 const Delete = {
@@ -35,7 +41,7 @@ const Delete = {
     constructor() {
       super(...arguments);
       this.code = `${Delete.UC_CODE}invalidDtoIn`;
-      this.message = "DtoIn is not valid.";
+      this.message = "DtoIn in DELETE is not valid.";
     }
   },
 
@@ -55,14 +61,14 @@ const Update = {
     constructor() {
       super(...arguments);
       this.code = `${Delete.UC_CODE}invalidDtoIn`;
-      this.message = "DtoIn is not valid.";
+      this.message = "DtoIn in UPDATE is not valid.";
     }
   },
   CarDoesNotExist: class extends TestMainUseCaseError {
     constructor() {
       super(...arguments);
       this.code = `${Update.UC_CODE}testCaseDeleteDaoFailed`;
-      this.message = "Update test case by testCase DAO update failed.";
+      this.message = "Car does not exist";
     }
   },
   CarUpdateDaoFailed: class extends TestMainUseCaseError {

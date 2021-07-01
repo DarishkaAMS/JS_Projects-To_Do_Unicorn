@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33462b8b-a1d5-4f9b-82fa-2759aa5577f5" name="Default Changelist" comment="Check Commit">
+      <change beforePath="$PROJECT_DIR$/uu_todo_maing01-server/app/abl/car-abl.js" beforeDir="false" afterPath="$PROJECT_DIR$/uu_todo_maing01-server/app/abl/car-abl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uu_todo_maing01-server/app/api/errors/car-error.js" beforeDir="false" afterPath="$PROJECT_DIR$/uu_todo_maing01-server/app/api/errors/car-error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uu_todo_maing01-server/app/api/validation_types/car-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/uu_todo_maing01-server/app/api/validation_types/car-types.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1uf0waxKC81Il5ErZCEIKEmC5yO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="car-error.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/uu_todo_maing01-server/app/api/errors/car-error.js" working-dir="$PROJECT_DIR$/uu_todo_maing01-server/app/api/errors">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.car-error.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33462b8b-a1d5-4f9b-82fa-2759aa5577f5" name="Default Changelist" comment="" />
+      <created>1625041579435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625041579435</updated>
+      <workItem from="1625041582317" duration="2431000" />
+      <workItem from="1625050173651" duration="16045000" />
+      <workItem from="1625066807820" duration="31000" />
+      <workItem from="1625067119787" duration="25000" />
+      <workItem from="1625067173487" duration="4671000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add Tryout App">
+      <created>1625050994718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625050994718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Tryout App">
+      <created>1625051090119</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625051090119</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Owner Int">
+      <created>1625055763211</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625055763211</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add create, delete and update">
+      <created>1625061612112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625061612112</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix update">
+      <created>1625066427525</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625066427525</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Check Commit">
+      <created>1625118915251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625118915251</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Tryout App" />
+    <MESSAGE value="Add Owner Int" />
+    <MESSAGE value="Add create, delete and update" />
+    <MESSAGE value="Fix update" />
+    <MESSAGE value="Check Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check Commit" />
+  </component>
+</project>

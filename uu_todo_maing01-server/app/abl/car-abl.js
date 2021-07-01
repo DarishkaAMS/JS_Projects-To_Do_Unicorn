@@ -33,7 +33,7 @@ class CarAbl {
     try {
       dtoOut = await this.dao.delete( awid, dtoIn.id);
     } catch (e) {
-      throw Errors.Delete.CarCreateDaoFailed(uuAppErrorMap, {dtoIn, cause: e})
+      throw Errors.Delete.DeleteDaoFailed(uuAppErrorMap, {dtoIn, cause: e})
     }
 
     return { ...dtoOut, uuAppErrorMap };
@@ -45,11 +45,10 @@ class CarAbl {
       dtoIn,
       validationResult,
       WARNINGS.CreateUnsupportedKeys.code,
-      Errors.Create.InvalidDtoIn
+      Errors.List.InvalidDtoIn
     );
 
     let dtoOut = await this.dao.list(awid, dtoIn);
-
 
     return { ...dtoOut, uuAppErrorMap };
   }

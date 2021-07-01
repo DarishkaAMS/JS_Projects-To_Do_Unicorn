@@ -20,6 +20,6 @@ const deleteDtoInType = shape({
 const updateDtoInType = shape({
   id: id().isRequired(),
   name: string(1, 255).isRequired(),
-  color: string(1, 255).isRequired(),
-  number: number(),
+  // color: string(1, 255).isRequired(),
+  // number: number(),
 });
